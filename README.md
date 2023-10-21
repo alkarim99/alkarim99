@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alkarim99
-- 👀 I’m interested in front-end web development
+- 👀 I’m interested in full stack development
 - 🌱 I’m currently learning JavaScript
 - 📫 My Instagram account @a.alkarim.a
 
